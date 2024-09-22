@@ -1,0 +1,13 @@
+streamlit==1.23.1
+pandas==2.0.3
+aiohttp==3.8.4
+asyncio==3.4.3
+torch==2.0.1
+sentence-transformers==2.2.2
+transformers==4.30.0
+beautifulsoup4==4.12.2
+plotly==5.14.1
+wordcloud==1.8.2.2
+matplotlib==3.7.1
+rispy==1.0.0
+bibtexparser==1.4.0
